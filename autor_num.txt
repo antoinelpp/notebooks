@@ -1,0 +1,191 @@
+0  is   Laurent Mirioni
+1  is   Trevor Lafleur
+2  is   Pascal Chabert
+3  is   Jean-Paul Booth
+6  is   Jean Larour
+12  is   Pierre-Alexandre Delattre
+20  is   D.V. Rafalskyi
+27  is   Daniil Marinov
+28  is   Olivier Guaitella
+29  is   Antoine Rousseau
+33  is   Laure Vermare
+34  is   Pascale Hennequin
+36  is   C.J. McDevitt
+44  is   N. Aunai
+45  is   Roch Smets
+46  is   A. Rhouni
+47  is   J.D. Techer
+49  is   Matthieu Berthomier
+52  is   Raymond Pottelette
+56  is   Alexandre S. Chuvatin
+113  is   Léonid Arantchouk
+122  is   Philippe Auvray
+123  is   Gérard Belmont
+124  is   Laurence Rezeau
+147  is   Richard Cousin
+165  is   Bruno Katra
+167  is   Christelle Barakat
+178  is   Malik Mansour
+179  is   Emilie Richer
+180  is   Xavier Morel
+181  is   Lara Popelier
+182  is   Anna Tenerani
+183  is   Amine Rhouni
+184  is   Cedric Reux
+185  is   Elisée Trier
+186  is   Claudia Lazzaroni
+187  is   Joseph Youssef
+189  is   Roland Grappin
+196  is   D. Grésillon
+216  is   Gérard Chanteur
+217  is   Christophe Coillot
+218  is   Joël Moutoussamy
+219  is   Ane Aanesland
+220  is   Gary Leray
+240  is   Katia Allegraud
+241  is   Ilya Marinov
+242  is   Svetlana Starikovskaia
+243  is   Jerome Bredin
+244  is   N. Oudini
+245  is   Jean-Luc Raimbault
+255  is   M.A. Lieberman
+286  is   A. Meige
+289  is   E.I. Mintoussov
+295  is   V. Samara
+301  is   S. Pouliquen
+302  is   J. Arancibia Monreal
+304  is   L. Liard
+309  is   Yasmina Azamoum
+310  is   Nishant Sirse
+325  is   V. Guerra
+326  is   C.D. Pintassilgo
+327  is   L. Nasi
+341  is   Julien Deroy
+352  is   Thomas Maysonnave
+354  is   Adrien Rousseau
+363  is   Özgür D. Gürcan
+364  is   Cyrille Honoré
+367  is   T. Gerbaud
+380  is   Vincent Berionni
+384  is   A. Storelli
+417  is   I. Zouganelis
+421  is   Christine Amory-Mazaudier
+459  is   A. Chasapis
+460  is   Alessandro Retinò
+466  is   K. H. Kiyani
+472  is   M. L. Goldstein
+480  is   A. Roux
+482  is   Nicole Cornilleau-Wehrlin
+483  is   Olivier Le Contel
+486  is   K. Abdul-Kader
+487  is   S. Y. Huang
+512  is   Marthe Bacal
+539  is   T. Verbeke
+547  is   Emilie Despiau-Pujo
+552  is   P. Ceccato
+560  is   G. Curley
+566  is   X. Aubert
+569  is   S. Celestin
+571  is   Anne Bourdon
+576  is   P.L. García-Martínez
+578  is   W. Ettoumi
+598  is   Rameswar Singh
+629  is   Patrick Canu
+630  is   Sédina Tsikata
+631  is   Hong Thi Thu Pham
+694  is   R. Modolo
+701  is   C. Krafft
+733  is   F. Leblanc
+743  is   Marie-Christine Firpo
+744  is   Dominique Fontaine
+745  is   Fouad Sahraoui
+761  is   V. Pisarev
+1157  is   D. C. Delcourt
+1178  is   L. Turc
+1179  is   Philippe Savoini
+1188  is   Thomas Chust
+1337  is   Laurent Mirioni
+1338  is   V. Bouzid
+1377  is   A. Teste
+1410  is   J.-M. Illiano
+1417  is   J. Covinhes
+1419  is   D. Attia
+1503  is   Marguerite Dang Van Sung Mussard
+1516  is   B. Pruvost
+1533  is   Rodolphe Sarot
+1539  is   P. A. Dellatre
+1540  is   Nicolas Dorville
+1562  is   Rodrigue Piberne
+1575  is   Yue Dong
+1576  is   C. Rossi
+1579  is   Quentin Délivré
+1594  is   Patrick Robert
+1621  is   C. Cabriel
+1628  is   Loganathan Sivachandiran
+1630  is   Paul Gravejat
+1635  is   A. Schimpf
+1677  is   Thomas Gerbaud
+1735  is   Pierre Morel
+1748  is   Judith De Patoul
+1754  is   Ana Sobota
+1756  is   Lina Gatilova
+1757  is   Eugenio Fasci
+1763  is   Emeric Foucher
+1764  is   Binjie Dong
+1777  is   Grégoire Canes-Boussard
+1778  is   Noémie Leick
+1780  is   Pascaline Grondein
+1782  is   Denis Renaud
+1789  is   A.V. Klochko
+1790  is   J. Lemainque
+1792  is   S.A. Stepanyan
+1796  is   A. Salmon
+1819  is   Team TCV
+1824  is   Joël Stienlet
+1828  is   W. Ensing
+1836  is   Mickaël Foucher
+1838  is   Robert Soriano
+1856  is   Raj Laxmi Singh
+1859  is   Emile Carbone
+1863  is   F. Dreydemy Ghiro
+1869  is   Dominique Alison
+1905  is   M. Tanguy
+1906  is   B. De la Porte
+1935  is   C. Peinturier
+1959  is   S. Moradi
+1981  is   Romain Meyrand
+1982  is   Sébastien Galtier
+1983  is   Supratik Banerjee
+2050  is   J. M. Maciel
+2114  is   Ilyasse Azzouzi
+2199  is   Chihiro Tao
+2211  is   Christophe Verdeil
+2212  is   Khristian Khurana
+2214  is   J. Dargent
+2219  is   Yue Liu
+2225  is   Andrew Gibson
+2322  is   S. Kobayashi
+2323  is   K. Ghantous
+2337  is   L. Z. Hadid
+2379  is   Pedro Viegas
+2400  is   Robin Leybros
+2405  is   R. Manuzzo
+2412  is   Antoine M. Chrisment
+2467  is   Hugo Breuillard
+2496  is   Paul Leroy
+2578  is   Banda Gassama
+2579  is   Peter Donnel
+2586  is   Vivien Croes
+2587  is   Nicolas Marsac
+2598  is   H. J. Doucet
+2600  is   N D Lepikhin
+2601  is   Zixian Jia
+2626  is   Antoine Tavant
+2641  is   S.A. Shcherbanev
+2642  is   I.U. Nadinov
+2664  is   S. Xu
+2672  is   Xianjie Wang
+2676  is   A. Jeandet
+2680  is   Romain Lucken
+2880  is   N. Zarouar
+2897  is   N. Andrés
